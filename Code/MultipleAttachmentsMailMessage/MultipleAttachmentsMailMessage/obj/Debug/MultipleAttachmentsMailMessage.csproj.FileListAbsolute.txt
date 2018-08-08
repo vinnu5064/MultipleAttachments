@@ -1,0 +1,6 @@
+c:\users\vinaym\source\repos\MultipleAttachmentsMailMessage\MultipleAttachmentsMailMessage\bin\Debug\MultipleAttachmentsMailMessage.pdb
+c:\users\vinaym\source\repos\MultipleAttachmentsMailMessage\MultipleAttachmentsMailMessage\obj\Debug\MultipleAttachmentsMailMessage.csprojResolveAssemblyReference.cache
+c:\users\vinaym\source\repos\MultipleAttachmentsMailMessage\MultipleAttachmentsMailMessage\obj\Debug\MultipleAttachmentsMailMessage.csproj.CoreCompileInputs.cache
+c:\users\vinaym\source\repos\MultipleAttachmentsMailMessage\MultipleAttachmentsMailMessage\obj\Debug\MultipleAttachmentsMailMessage.pdb
+c:\users\vinaym\source\repos\MultipleAttachmentsMailMessage\MultipleAttachmentsMailMessage\bin\Debug\MultipleAttachmentsMailMessage.dll
+c:\users\vinaym\source\repos\MultipleAttachmentsMailMessage\MultipleAttachmentsMailMessage\obj\Debug\MultipleAttachmentsMailMessage.dll

@@ -10,7 +10,7 @@ Running the tests:
 
 The source code is ready to build as an Uipath Activity. Ensure that below references have been added to the project<br/>
 i) system.Activities<br/>
-ii) system.Componentmodel.Composistion
+ii) system.Componentmodel
 
 Deployment:
 
